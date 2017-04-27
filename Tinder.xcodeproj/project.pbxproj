@@ -12,6 +12,8 @@
 		8D221EA41EB17DF500D80EA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D221EA21EB17DF500D80EA1 /* Main.storyboard */; };
 		8D221EA61EB17DF500D80EA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D221EA51EB17DF500D80EA1 /* Assets.xcassets */; };
 		8D221EA91EB17DF500D80EA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D221EA71EB17DF500D80EA1 /* LaunchScreen.storyboard */; };
+		8D221EB11EB1822900D80EA1 /* CardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D221EB01EB1822900D80EA1 /* CardViewController.swift */; };
+		8D221EB31EB18F1100D80EA1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D221EB21EB18F1100D80EA1 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8D221EA51EB17DF500D80EA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D221EA81EB17DF500D80EA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D221EAA1EB17DF500D80EA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D221EB01EB1822900D80EA1 /* CardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardViewController.swift; sourceTree = "<group>"; };
+		8D221EB21EB18F1100D80EA1 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				8D221EA51EB17DF500D80EA1 /* Assets.xcassets */,
 				8D221EA71EB17DF500D80EA1 /* LaunchScreen.storyboard */,
 				8D221EAA1EB17DF500D80EA1 /* Info.plist */,
+				8D221EB01EB1822900D80EA1 /* CardViewController.swift */,
+				8D221EB21EB18F1100D80EA1 /* DetailViewController.swift */,
 			);
 			path = Tinder;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				8D221EA11EB17DF500D80EA1 /* ViewController.swift in Sources */,
 				8D221E9F1EB17DF500D80EA1 /* AppDelegate.swift in Sources */,
+				8D221EB11EB1822900D80EA1 /* CardViewController.swift in Sources */,
+				8D221EB31EB18F1100D80EA1 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
